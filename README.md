@@ -11,6 +11,19 @@
 
 ### Hi there 👋
 
+### What I'm doing
+
+🤖 Fighting big bad bots over at [PerimeterX](https://www.perimeterx.com). <p/>
+👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `PHP`, `GO`<p/>
+☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Azure Functions`<p/>
+🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
+🎮 Currently gaming on `Nintendo Switch`, `Playstaiton 4 Pro`, `Google Stadia`
+
+### Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=pxjohnny&show_icons=true)
+
+
 <!--
 **pxjohnny/pxjohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
