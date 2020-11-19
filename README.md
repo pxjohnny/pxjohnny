@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/dev.to-pxjohnny-orange)](https://dev.to/pxjohnny)
 [![](https://img.shields.io/badge/Medium-%40fsjohnny-brightgreen)](https://medium.com/@fsjohnny)
 
-### Hi there 👋
+### Hi there 👋 i'm Johnny Tordgeman AKA pxJohnny on GitHub!
 
 ### What I'm doing
 
