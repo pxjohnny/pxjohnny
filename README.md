@@ -9,15 +9,15 @@
 [![](https://img.shields.io/badge/dev.to-pxjohnny-orange)](https://dev.to/pxjohnny)
 [![](https://img.shields.io/badge/Medium-%40fsjohnny-brightgreen)](https://medium.com/@fsjohnny)
 
-### Hi there 👋 i'm Johnny Tordgeman AKA pxJohnny on GitHub!
+### Hi there 👋 i'm Johnny Tordgeman and i'm a full stack engineer!
 
 ### What I'm doing
 
 🤖 Fighting big bad bots over at [PerimeterX](https://www.perimeterx.com). <p/>
 👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `PHP`, `GO`<p/>
-☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Azure Functions`<p/>
+☁️ Clouding with `AWS Lambda`, `Cloudflare Workers`, `Google Functions`, `Azure Functions` and `Fastly Compute@Edge`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
-🎮 Currently gaming on `Nintendo Switch`, `Playstaiton 4 Pro`, `Google Stadia`
+🎮 Currently gaming on `Nintendo Switch`, `Playstaiton 4 Pro`, `Google Stadia` and `Xbox Series X`
 
 ### Stats
 
