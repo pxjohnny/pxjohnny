@@ -13,11 +13,11 @@
 
 ### What I'm doing
 
-🤖 Fighting big bad bots over at [PerimeterX](https://www.perimeterx.com). <p/>
-👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `PHP`, `GO`<p/>
-☁️ Clouding with `AWS Lambda`, `Cloudflare Workers`, `Google Functions`, `Azure Functions` and `Fastly Compute@Edge`<p/>
-🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
-🎮 Currently gaming on `Nintendo Switch`, `Playstaiton 4 Pro`, `Google Stadia` and `Xbox Series X`
+🤖 &nbsp;Fighting big bad bots over at [PerimeterX](https://www.perimeterx.com). <p/>
+👨‍💻 &nbsp;Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `PHP`<p/>
+☁️  &nbsp;Clouding with `AWS Lambda`, `Cloudflare Workers`, `Google Functions`, `Azure Functions` and `Fastly Compute@Edge`<p/>
+🛍️ &nbsp;Ecommercing with `Salesforce Commerce Cloud`<p/>
+🎮 &nbsp;Currently gaming on `Nintendo Switch`, `Playstaiton 4 Pro`, `Google Stadia` and `Xbox Series X`
 
 ### Stats
 
